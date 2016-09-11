@@ -5,7 +5,10 @@ A usefull system to launch a computer with a smartphone using bluetooth comunica
 You can easly start your personal computer with the sipmle button or with your smartphone using the bluetooth technology.
 There is more explanation in every README.md who are in every files.
 
-## The system
+## Contact
+email 1 : rdesincallo@gmail.com
+email 2 : remi281099@orange.fr
+## Pictures of system
 
 A build a littlebox where I put the arduino with a bluetooth module, resistance and a LED.
 
